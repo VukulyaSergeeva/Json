@@ -1,5 +1,11 @@
-My favorite film is Destruction
-My favorite TV series is The Office
-My favorite food is Meat
-My favorite time of the year is spring
-I would like to travel to Sweden
+{
+   "hobbies":[
+      {
+         "film":"Destruction",
+         "TV_series":"The Office",
+         "Food":"Meat",
+         "time of the year":"spring",
+         "Travel":"Sweden"
+      }
+   ]
+}

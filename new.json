@@ -1,4 +1,10 @@
-Sergeeva
-Victoria
-I have 1 cat[D[D[D[one cat
-I want [D[D[D[D[D[D would like to have 2500$ salary[D[C.
+{
+   "personal_data":[
+      {
+         "name":"Victoria",
+         "surname":"Sergeeva",
+         "number_of_animals":"one",
+         "desired_salary":2500
+      }
+   ]
+}
